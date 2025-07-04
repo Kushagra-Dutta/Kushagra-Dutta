@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Kushagra Dutta!<br>🛠️ I’m currently working on building collaborative AI agent systems at Prodoc.ai, leveraging frameworks like CrewAI and MCP to push the boundaries of autonomous intelligence.<br>🤝 I’m looking to collaborate on projects that blend real-time AI, deep learning, and impactful software solutions.<br>🧠 I’m looking for help with advanced model deployment and scaling AI architectures for production environments.<br>🌱 I’m currently learning the latest in agent monitoring, including OpenLIT and LangFuse, and always exploring new trends in AI and data science.<br>💬 Ask me about AI-powered sign language interpretation, network anomaly detection, or anything at the intersection of machine learning and real-world impact.<br>⚡ Fun fact: I once reduced data processing time for a manga sales dashboard by 30%—and I still find time to hit the basketball court as a district-level player!
+👋 Hi, I'm Kushagra Dutta!<br>
+🛠️ Currently working on building collaborative AI agent systems at Prodoc.ai, leveraging frameworks like CrewAI and MCP to push the boundaries of autonomous intelligence.<br>
+🤝 Looking to collaborate on projects that blend real-time AI, deep learning, and impactful software solutions.<br>
+🧠 Seeking assistance with advanced model deployment and scaling AI architectures for production environments.<br>
+🌱 Currently learning the latest in agent monitoring, including OpenLIT and LangFuse, and always exploring new trends in AI and data science.<br>
+💬 Ask me about AI-powered sign language interpretation, network anomaly detection, or anything at the intersection of machine learning and real-world impact.<br>
+⚡ Fun fact: I once reduced data processing time for a manga sales dashboard by 30%—and I still find time to hit the basketball court as a district-level player!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-dutta-424a8b274/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duttakushagra@gmail.com) 
